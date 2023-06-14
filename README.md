@@ -19,7 +19,9 @@ To run the Pong game using hand gestures, you need to have the following depende
 ## Usage:
 1. Connect a webcam to your computer.
 2. Run the game in any python editor or command prompt using following command to start the game:
-<br>``python PongGame.py``
+```
+python PongGame.py
+```
 3. The game window will appear, displaying the Pong game. You will see two paddles on opposite sides of the screen.
 4. Place your hand in front of the webcam, ensuring it is within the frame.
 5. Move your hand up and down to control the paddle on your side of the screen. The paddle will follow the movement of your hand.
