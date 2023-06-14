@@ -4,8 +4,9 @@ This repository contains a Pong game implemented using hand gestures as input. T
 <img src="https://github.com/bipulkarna97/Pong-Game-Using-Hand-Gestures/assets/126940912/58f32757-a166-40a2-bbc2-0b404af7eccc" width="500" height="280">
 
 <br>
+<br>
 
-## Requirements
+# Requirements
 To run the Pong game using hand gestures, you need to have the following dependencies installed:
 
 - Python 3.7 or higher
@@ -18,7 +19,7 @@ To run the Pong game using hand gestures, you need to have the following depende
 ## Usage:
 1. Connect a webcam to your computer.
 2. Run the game in any python editor or command prompt using following command to start the game:
-<br>``python pong_hand_gestures.py``
+<br>``python PongGame.py``
 3. The game window will appear, displaying the Pong game. You will see two paddles on opposite sides of the screen.
 4. Place your hand in front of the webcam, ensuring it is within the frame.
 5. Move your hand up and down to control the paddle on your side of the screen. The paddle will follow the movement of your hand.
